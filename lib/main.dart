@@ -152,7 +152,7 @@ class _HomePageState extends State<HomePage> {
   Widget _expenses() {
     return Column(
       children: const <Widget>[
-        Text("\$2361,41",
+        Text("\$2361,42",
           style: TextStyle(
             fontWeight: FontWeight.bold,
             fontSize: 40.0,
