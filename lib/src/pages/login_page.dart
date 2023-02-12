@@ -27,7 +27,7 @@ class _Login extends State<Login> {
                 'LECALIAN SHOP',
                 style: TextStyle(
                     fontFamily: 'RibeyeMarrow',
-                    fontSize: 28.0,
+                    fontSize: 30.0,
                     color: Colors.green),
               ),
               const IconContainer(
