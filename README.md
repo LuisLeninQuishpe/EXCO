@@ -1,4 +1,4 @@
-# exco
+# Proyecto de gestor de cuentas LECALIAN SHOP
 
 A new Flutter project.
 
